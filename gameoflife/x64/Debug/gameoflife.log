@@ -1,0 +1,6 @@
+﻿  game_of_life.cpp
+C:\Users\Jakov\Documents\FAKS\S2\Data Structures & Algorithms\Homework02\gameoflife\game_of_life.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  program.cpp
+C:\Users\Jakov\Documents\FAKS\S2\Data Structures & Algorithms\Homework02\gameoflife\program.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  gameoflife.vcxproj -> C:\Users\Jakov\Documents\FAKS\S2\Data Structures & Algorithms\Homework02\x64\Debug\gameoflife.exe
